@@ -1,0 +1,5 @@
+git --init
+git branch
+git features branch index.html
+git merge--d features corrrected.html
+git switch features branch (index.html,corrected.html)
